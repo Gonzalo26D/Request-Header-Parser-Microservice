@@ -1,0 +1,16 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "A request header parser microservice for freeCodeCamp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "TuNombre",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
